@@ -1,0 +1,3 @@
+# Keep source formatting stable even when Git for Windows enables autocrlf.
+# Auto detection leaves binary fixtures unchanged.
+* text=auto eol=lf
